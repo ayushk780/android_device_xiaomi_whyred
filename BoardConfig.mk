@@ -101,3 +101,6 @@ TW_INPUT_BLACKLIST := "hbtp_vm"
 TW_MAX_BRIGHTNESS := 255
 TW_THEME := portrait_hdpi
 TW_SCREEN_BLANK_ON_BOOT := true
+
+#PB-Official
+PB_OFFICIAL := true
